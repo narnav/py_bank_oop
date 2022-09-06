@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "name": "aaa",
+        "balance": 500,
+        "type": "Client"
+    },
+    {
+        "id": 1,
+        "name": "bbb",
+        "balance": 0,
+        "type": "VIP"
+    }
+]
